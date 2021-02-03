@@ -235,3 +235,5 @@ var nikudExp = new RegExp('[' +
         ).join('') 
     + ']');
 var segolsExp = /[\u05b1\u05b6\u05b5]/;
+
+transFormFirstP();
